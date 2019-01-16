@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIZZBALL", "FIZZBALL\FIZZBALL.csproj", "{2BB5E63E-29E5-4BD4-A6FB-516464577EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIZZBALL.test", "FIZZBALL.test\FIZZBALL.test.csproj", "{137DDAA0-AAA7-4E59-A4F5-2568DCE96240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB5E63E-29E5-4BD4-A6FB-516464577EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB5E63E-29E5-4BD4-A6FB-516464577EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB5E63E-29E5-4BD4-A6FB-516464577EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB5E63E-29E5-4BD4-A6FB-516464577EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{137DDAA0-AAA7-4E59-A4F5-2568DCE96240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137DDAA0-AAA7-4E59-A4F5-2568DCE96240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137DDAA0-AAA7-4E59-A4F5-2568DCE96240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137DDAA0-AAA7-4E59-A4F5-2568DCE96240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B01125-FAA9-4B73-A1DD-EC9B8C6691AE}
+	EndGlobalSection
+EndGlobal
